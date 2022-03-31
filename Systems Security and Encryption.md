@@ -9,3 +9,4 @@
  <p>This threat is amplified for high risk sectors such as the financial sector as for this company where lots of money will be sent abroad, someone could send money and request money from people with malicious intent even if they were a lower level employee. These admin controls should be left to the administrators as they can cause harm to others if used incorrectly. Another situation where this is important is if any of the software is damaged from settings being changed, it could take down the whole network and stop people from sending important money to each other. </p>
  <p>Not implementing user groups can breach the CIA triad. This is because if the wrong people have access to personal information this can breach the Confidentiality point of the CIA triad. With user groups you can limit who can access the personal information files to people who are trusted and not to the public domain.  </p>
 
+ 
